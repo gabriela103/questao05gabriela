@@ -1,5 +1,4 @@
 # questao05gabriela
-# quest-o-5-gabriela
 #include <stdlib.h>
 #include <locale.h>
 
